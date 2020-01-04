@@ -1,2 +1,2 @@
 # javascript_demo
-this repository include small pragram using ES6 features
+This repository include small programs or some javascript tricks.
